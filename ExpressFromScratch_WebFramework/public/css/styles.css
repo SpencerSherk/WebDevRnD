@@ -1,0 +1,15 @@
+
+head {
+	text-align: center;
+}
+body {
+    padding: 25px; 
+    margin: 0; 
+    background-color: #fbb0be;
+    text-align: center;
+} 
+
+img.resize {
+  width:300px;
+  height:300px;
+}
