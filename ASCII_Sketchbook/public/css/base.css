@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    color: red;
+    font-family:Courier;
+    padding-left: 15px;
+}
+
+h1 {
+    color: black;
+    font-family:Courier;
+}

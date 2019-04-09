@@ -1,0 +1,19 @@
+
+<h3>{{message}}</h3>
+
+<form method="get"> 
+	filter by a tag: <input type="text" name="tag"><input type="submit" value="Submit"><br> 
+</form>
+
+<ul>
+{{#each artworks}}
+<li><b>{{date}}, {{title}},</b> <br>  <pre>{{str}}</pre> tags: 
+	{{#each tags}}
+	<b><a href= "{{url}}">{{this}}</a></b>
+	{{/each}} <br> <br>
+{{/each}} 
+</ul>
+
+<p>-----------------------------<br><br><a href="/add">Add Artwork</a></p>
+
+
