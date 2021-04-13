@@ -1,8 +1,7 @@
 # WebDev_RnD
 
 
-This is a collection of personal RnD projects I will continue to add to as I experiment with more Fullstack webdev.
-
+This is a collection of personal Webdev RnD projects.
 
 
 
