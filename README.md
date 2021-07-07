@@ -14,7 +14,7 @@ This is a collection of personal Webdev RnD projects.
 ExpressFromScratch_WebFramework
 
 	a reusable web framework that you can use to write simple web applications, implementing many of the features
-	present in Express. (includes demo site which loads random images of axolotls) 
+	present in Express. (includes demo site which loads random images of axolotls, because, why not?) 
 
 	modules used: net, fs   -  no http or express
 
@@ -62,9 +62,5 @@ ASCII_Sketchbook
 	- middleware
 	- handling forms, both GET and POST
 	- sessions
-
-	TODO:
-		clicking on tag to filter by query string
-		force redirect to home page after creation
 
 
