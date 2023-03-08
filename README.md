@@ -1,7 +1,7 @@
 # WebDev_RnD
 
 
-This is a collection of personal Webdev RnD projects.
+This is a collection of personal Webdev RnD projects, which I made as a way to experiment with and learn web technologies during university.
 
 
 
