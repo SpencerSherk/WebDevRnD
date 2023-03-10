@@ -1,8 +1,7 @@
 # WebDev_RnD
 
 
-This is a collection of personal Webdev RnD projects, which I made as a way to experiment with and learn web technologies during my free time in university.
-
+This is a collection of personal Webdev RnD projects, which I made as a way to experiment with and learn web technologies
 
 
 
